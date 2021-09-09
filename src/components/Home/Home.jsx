@@ -42,6 +42,7 @@ class Home extends Component {
         <div className="splash-image">
           <img src={homeAnime} alt="animation" className="home-anime" />
         </div>
+        
         <div className="social-icons-container">
           <a href="https://github.com/EpicDevv" className="social-icon">
             <img src={github} alt="social" />
